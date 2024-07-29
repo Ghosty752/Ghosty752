@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ghosty752
+- 👀 I’m interested in Physics
+- 🌱 I’m currently learning Website development
